@@ -217,8 +217,8 @@
 
           <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
           <script src="https://www.google.com/jsapi"></script>
-          <script type="text/javascript" src="https://info.mzalendo.com/static/js/base.8b114435d459.js" charset="utf-8"></script>
-          <script type="text/javascript" src="https://info.mzalendo.com/static/js/survey.43dfe252a049.js" charset="utf-8"></script>
+          <script type="text/javascript" src="https://info.mzalendo.com/static/js/base.js" charset="utf-8"></script>
+          <script type="text/javascript" src="https://info.mzalendo.com/static/js/survey.js" charset="utf-8"></script>
 
 
         <div id="fb-root"></div>

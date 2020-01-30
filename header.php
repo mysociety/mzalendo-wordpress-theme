@@ -10,7 +10,7 @@
         <meta http-equiv="cleartype" content="on">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-        <link href="https://info.mzalendo.com/static/css/kenya.aa2db2cd1b38.css" rel="stylesheet" type="text/css" />
+        <link href="https://info.mzalendo.com/static/css/kenya.css" rel="stylesheet" type="text/css" />
 
         <script type="text/javascript" charset="utf-8">
 
@@ -23,7 +23,7 @@
                   south: -4.73,
                   west:  33.83
                 },
-                crosshairs_image: '/static/images/crosshairs.9809ff8a2f7f.png'
+                crosshairs_image: '/static/images/crosshairs.png'
             };
 
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -36,13 +36,13 @@
 
         </script>
 
-        <script type="text/javascript" src="https://info.mzalendo.com/static/js/modernizr.c6ae4ab2e77b.js" charset="utf-8"></script>
+        <script type="text/javascript" src="https://info.mzalendo.com/static/js/modernizr.js" charset="utf-8"></script>
 
         <!--[if (lt IE 9) & (!IEMobile)]>
-            <script type="text/javascript" src="https://info.mzalendo.com/static/js/respond.1d1b2e4f5263.js" charset="utf-8"></script>
+            <script type="text/javascript" src="https://info.mzalendo.com/static/js/respond.js" charset="utf-8"></script>
         <![endif]-->
 
-        <link rel="icon" type="image/png" href="https://info.mzalendo.com/static/images/favicon.b2fd842d2a1e.png">
+        <link rel="icon" type="image/png" href="https://info.mzalendo.com/static/images/favicon.png">
 
         <script src="<?php bloginfo('template_url'); ?>/assets/js/blog.js"></script>
         <link rel="alternate" type="application/rss+xml" title="<?php bloginfo('name'); ?> RSS Feed" href="<?php bloginfo('rss2_url'); ?>" />
